@@ -1,0 +1,31 @@
+#inicio {
+    color: white;
+    font-family: "Megrim", system-ui;
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+body {
+    background-color: rgb(47, 48, 54);
+}
+
+#carusel {  
+    object-fit: contain;
+    height: 590px;
+}
+
+#Diana {
+    object-fit: contain;
+    height: 590px;
+}
+
+#JK {
+    object-fit: contain;
+    height: 590px;
+}
+
+#Flores {
+    object-fit: contain;
+    height: 590px;
+}
